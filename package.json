@@ -1,0 +1,18 @@
+{
+  "name": "websocket-nodejs",
+  "version": "1.0.0",
+  "description": "Real time chat system with Node.js and websocket",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "Romário Arruda",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.1"
+  }
+}
